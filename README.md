@@ -1,2 +1,2 @@
 # Jogo_da_Forca_web
- Jogo dinâmico da forca desenvolvido em HTML, CSS e JavaScript onde os principais desafios foram estabelecer as regras de jogo aplicando os conhecimentos de JavaScript para o backend utilizando a orientação de objetos, funções, laços de repetição, estruturas condicionais, integrando com o frontend utilizando também alguns métodos DOM.
+ Jogo dinâmico da forca desenvolvido em HTML, CSS e JavaScript onde os principais desafios foram estabelecer as regras de jogo aplicando os conhecimentos de JavaScript para o backend utilizando a orientação de objetos, funções, laços de repetição, estruturas condicionais, integrando com o frontend utilizando também alguns métodos DOM e estilizando a página com CSS.
